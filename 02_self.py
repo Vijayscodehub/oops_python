@@ -1,6 +1,7 @@
 class engineering:  #made a class
+    studentname = "Vijay"  #class attribute hardcode jsut for the function print statement
     def domainName(self):   #made a method/function
-        print(f"Name fo engineering domain : {self.Domain}")  #print statement within the method domainName
+        print(f"Engineering domain for student {self.studentname} is {self.Domain}")  #print statement within the method domainName
     
 Vijay_study = engineering()  #made a object
 Vijay_study.Domain = "Mechanical"   #made a instance attibute
