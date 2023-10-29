@@ -38,7 +38,7 @@ print(f"electronics : {Vijay_owns.electronics}","\n")
 print(f"Vijay's ShoesCompany : {Things.shoes_company}")
 
 
-
+#line11-20 explantion
 # This is a valid approach, and it works in Python.
 # It's called "dynamic attribute creation." You're adding attributes
 # to the instance after it's created. However, it's important to
